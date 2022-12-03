@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "st4Cardiology Free Sample Questions",
-    "currentPage": "index.html",
+    "currentPage": "Case_29_WPW_syndrome.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,8 +53,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "uniqCompNum": 5,
-    "versionPublish": "5.6.11",
-    "screenshot": "screenshot.png"
+    "versionPublish": "5.6.11"
   },
   "pages": {
     "index.html": {
